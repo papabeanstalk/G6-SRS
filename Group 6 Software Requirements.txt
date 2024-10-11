@@ -477,6 +477,10 @@ Matthew will be creating and developing the Website to make sure it works with t
 
 4.3 Data Flow Diagrams (DFD)
 4.2 State-Transition Diagrams (STD)
+4.2 Software Architecture Diagram (SWA)
+
+Description: SWA diagram for ABC Theater’s movie’s ticketing system.
+
 5. Change Management Process
 Identify and describe the process that will be used to update the SRS, as needed, when project scope or requirements change.  Who can submit changes and by what means, and how will these changes be approved.
 A. Appendices
