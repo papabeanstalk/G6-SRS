@@ -426,6 +426,17 @@ Catchall section for any additional requirements.
 4. Analysis Models
 List all analysis models used in developing specific requirements previously given in this SRS.  Each model should include an introduction and a narrative description.  Furthermore, each model should be traceable the SRS’s requirements.
 4.1 Sequence Diagrams
+
+Cameron Lee (Software Developer)
+Cameron will lead development of system software, using the most appropriate data structures for each feature. He will ensure that the site will run efficiently for integrity and longevity of product. Development will take 1 month per feature, following Roger’s guidelines for architecture.
+Roger Dao (Outline creation) https://github.com/rogerdao I’ll make a repo for out Gits after this
+Roger will work on the structural organization of every software component. He will ensure that the outline is defined, and will serve as a guide for leading the project efficiently. 
+Ross Hackett (Tester)
+Ross will be leading and developing tests to ensure the system’s integrity. His goal is to find possible solutions within the software and architecture using worst case scenarios. He will document and report issues found, as well as proof that the issue exists.
+Matthew Dominguez (Web Developer) https://github.com/MatthewJD5
+Matthew will be creating and developing the Website to make sure it works with the client's needs. User Interface will have features requested and specified within this document adhering to requirements of the client. Production will take 1 month for draft, and ongoing for any adjustments.
+
+
 4.3 Data Flow Diagrams (DFD)
 4.2 State-Transition Diagrams (STD)
 5. Change Management Process
