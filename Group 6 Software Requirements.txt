@@ -1,7 +1,7 @@
 ﻿ABC Theater’s Movie Ticketing System
 Software Requirements Specification
-Version 1
-September 26, 2024
+Version 4
+November 7, 2024
 
 Group #6
 Cameron Lee, Roger Dao, Ross Hackett, Matthew Dominguez
